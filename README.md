@@ -10,6 +10,11 @@ http://cs231n.github.io/python-numpy-tutorial/
 TensorFlow Tutorial
 https://www.tensorflow.org/tutorials
 
+Niftynet: An open source convolutional neural networks platform for medical image analysis and image-guided therapy
+https://niftynet.io/
+
+http://deepultrasound.ai
+
 # # GitHub:
 
 A Deep Learning Approach to Ultrasound Image Recovery
