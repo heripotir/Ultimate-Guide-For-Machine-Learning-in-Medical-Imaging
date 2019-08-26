@@ -10,7 +10,7 @@ http://cs231n.github.io/python-numpy-tutorial/
 TensorFlow Tutorial
 https://www.tensorflow.org/tutorials
 
-GitHub:
+# # GitHub:
 
 A Deep Learning Approach to Ultrasound Image Recovery
 https://github.com/dperdios/us-rawdata-sda
