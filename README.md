@@ -55,3 +55,12 @@ https://github.com/loliverhennigh/ultrasound-nerve-segmentation-in-tensorflow
 
 Blood Flow Analysis FloWave.US
 https://github.com/ccoolbaugh/FloWave.US
+
+# # # OpenSource from Companies
+
+Butterfly Network
+https://github.com/ButterflyNetwork/MITGrandHack2018
+
+
+
+
