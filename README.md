@@ -1,7 +1,7 @@
 # Ultimate-Guide-For-Machine-Learning-in-Medical-Imaging
 Useful resources for learning and implementing machine learning algorithms in medical imaging.
 
-MATLAB: Introduction to Medical Image Processing Using MATLAB
+Introduction to Medical Image Processing Using MATLAB
 https://www.mathworks.com/videos/series/introduction-to-medical-image-processing-using-matlab-96600.html
 
 Machine Learning
