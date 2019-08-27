@@ -20,6 +20,13 @@ https://github.com/NifTK/NiftyNet
 Deep Learning for Ultrasound Imaging and Analysis
 http://deepultrasound.ai
 
+BME I5000: Medical Imaging and Image Processing 
+https://www.parralab.org/teaching/med-imaging/
+
+City University of New York | Parra Lab
+https://www.parralab.org/resources.html
+
+
 # # GitHub:
 
 A Deep Learning Approach to Ultrasound Image Recovery
