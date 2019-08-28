@@ -62,6 +62,12 @@ https://github.com/ccoolbaugh/FloWave.US
 Butterfly Network OpenSource
 https://github.com/ButterflyNetwork/MITGrandHack2018
 
+# # # Articles
+
+Hello World Deep Learning in Medical Imaging
+https://doi.org/10.1007/s10278-018-0079-6
+
+
 
 
 
