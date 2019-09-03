@@ -1,10 +1,6 @@
 # Ultimate-Guide-For-Machine-Learning-in-Medical-Imaging
 Useful resources for learning and implementing machine learning algorithms in medical imaging.
 
-Annotated Computer Vision Bibliography: Medical Applications, CAT, MRI, Ultrasound, Heart Models, Brain Models:      
-An excellent source for medical imaging, master at Computer Vision
-http://www.visionbib.com/bibliography/contentsmedical.html#Medical%20Applications,%20CAT,%20MRI,%20Ultrasound,%20Heart%20Models,%20Brain%20Models
-
 Deep Learning Tool Kit
 https://dltk.github.io/
 
@@ -67,6 +63,9 @@ Butterfly Network OpenSource
 https://github.com/ButterflyNetwork/MITGrandHack2018
 
 # # # Articles
+
+Annotated Computer Vision Bibliography: Medical Applications, CAT, MRI, Ultrasound, Heart Models, Brain Models: Ultrasound, Ultrasonic  
+http://www.visionbib.com/bibliography/medical893.html#Medical%20Applications%20--%20Ultrasound,%20Ultrasonic
 
 Hello World Deep Learning in Medical Imaging
 https://doi.org/10.1007/s10278-018-0079-6
