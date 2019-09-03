@@ -1,7 +1,7 @@
 # Ultimate-Guide-For-Machine-Learning-in-Medical-Imaging
 Useful resources for learning and implementing machine learning algorithms in medical imaging.
 
-Annotated Computer Vision Bibliography: Medical Applications, CAT, MRI, Ultrasound, Heart Models, Brain Models 
+Annotated Computer Vision Bibliography: Medical Applications, CAT, MRI, Ultrasound, Heart Models, Brain Models:      
 An excellent source for medical imaging, master at Computer Vision
 http://www.visionbib.com/bibliography/contentsmedical.html#Medical%20Applications,%20CAT,%20MRI,%20Ultrasound,%20Heart%20Models,%20Brain%20Models
 
